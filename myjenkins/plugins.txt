@@ -1,0 +1,16 @@
+build-pipeline-plugin:1.5.2
+credentials:2.1.4
+dashboard-view:2.2
+git:2.6.0
+git-client:1.21.0
+jobConfigHistory:2.13
+jquery:1.7.2-1
+junit:1.18
+mailer:1.17
+matrix-project:1.7.1
+parameterized-trigger:2.17
+scm-api:1.2
+ssh-credentials:1.12
+structs:1.5
+workflow-scm-step:2.2
+workflow-step-api:2.3
